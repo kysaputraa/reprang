@@ -18,3 +18,5 @@ Melihat Pending indikator kinerja.
 Laporan per user (excel / html)
 
 Lihat Folder "Screenhost Fitur Aplikasi" untuk melihat tampilan aplikasi .
+
+Kysa
